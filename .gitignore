@@ -1,3 +1,13 @@
+# keep it under each dir
+!.gitignore
+!CHANGELOG.md
+!LICENSE
+!README_CN.*
+!README.*
+# ignore it under each dir
+.DS_Store
+
+# text below about python
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
